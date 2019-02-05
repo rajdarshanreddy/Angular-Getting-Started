@@ -9,6 +9,9 @@ node -v
 ```
 in a terminal/console window.
 
-- To get Node.js, go to nodejs.org.
+- To get Node.js, go to 
+```sh
+nodejs.org.
+```
 
 - Download and install the LTS version of node.
