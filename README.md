@@ -1,56 +1,5 @@
 ### [Nodejs](#nodejs)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Angular requires Node.js version 8.x or 10.x.
 
 - To check your version, run 
@@ -103,16 +52,6 @@ nodejs.org.
 ```
 
 - Download and install the LTS version of node.
-
-
-
-
-
-
-
-
-
-
 
 
 ## Nodejs
@@ -131,47 +70,3 @@ nodejs.org.
 ```
 
 - Download and install the LTS version of node.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
