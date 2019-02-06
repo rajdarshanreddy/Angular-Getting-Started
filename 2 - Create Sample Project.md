@@ -19,14 +19,14 @@ Would you like to add Angular routing? (y/N)
 Which stylesheet format would you like to use? (Use arrow keys)
 ```
 
-- 
+- On Getting a message 'Successfully initialized git', enter the project root by using the below command.
 ```sh
 cd my-project
 ```
 
--
+- To start the Application use
 ```sh
-ng serve
+ng serve --open
 ```
 
 ### References and Resources
